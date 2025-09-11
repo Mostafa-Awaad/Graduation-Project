@@ -153,8 +153,3 @@ flowchart LR
 
 ```
 
-## ⚙️ Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/bci-exoskeleton.git
-   cd bci-exoskeleton
